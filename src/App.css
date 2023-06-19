@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  justify-content: center;
+  align-items: center;
+  margin-top: 20px;
+  background: linear-gradient(90deg, rgba(6,230,86,1) 0%, rgba(0,46,255,1) 100%);
+}
+
+input {
+  border-radius: 2em;
+  color: black;
+  padding: 1em;
+  background-color: rgb(206, 206, 206);
+  border: none;
+  margin: 1em;
+}
+
+.botaoEnviar {
+  border-radius: 2em;
+  outline: none;
+  border: none;
+}
